@@ -12,7 +12,7 @@ import {
 import { cn } from "@/utils/cn";
 
 export function Box({
-  borderRadius = "1.75rem",
+  borderRadius = "28px",
   children,
   as: Component = "div",
   containerClassName,

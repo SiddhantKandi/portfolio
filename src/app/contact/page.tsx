@@ -7,7 +7,7 @@ const Contact = () => {
   return (
     <div>
       <Box
-        borderRadius="1rem"
+        borderRadius="16px"
         className="bg-white dark:bg-dark-color-2 text-black dark:text-white border-neutral-200 dark:border-slate-800 p-10 flex flex-col"
         containerClassName="m-auto w-[750px] max-w-[90%] h-auto md:mt-10"
       >
@@ -16,7 +16,7 @@ const Contact = () => {
           <ul>
             <li className="mt-6 flex items-center gap-3">
               <div>
-                <AiOutlineMail size="1.5rem" />
+                <AiOutlineMail size={24} />
               </div>
               <div>
                 <span className="font-semibold">Email:</span>{" "}
@@ -31,7 +31,7 @@ const Contact = () => {
             </li>
             <li className="mt-6 flex items-center gap-3">
               <div>
-                <FaTwitter size="1.5rem" />
+                <FaTwitter size={24} />
               </div>
               <div>
                 <span className="font-semibold">DM on Twitter:</span>{" "}
@@ -46,7 +46,7 @@ const Contact = () => {
             </li>
             <li className="mt-6 flex items-center gap-3">
               <div>
-                <FaInstagram size="1.5rem" />
+                <FaInstagram size={24} />
               </div>
               <div>
                 <span className="font-semibold">DM on Instagram:</span>{" "}
@@ -61,7 +61,7 @@ const Contact = () => {
             </li>
             <li className="mt-6 flex items-center gap-3">
               <div>
-                <ImLocation size="1.5rem" />
+                <ImLocation size={24} />
               </div>
               <div>
                 <span className="font-semibold">Address:</span> VijayShree Nagar,Deshmukh Hotel,

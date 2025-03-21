@@ -51,7 +51,7 @@ const About = () => {
             {ACHIEVEMENTS.map((achievement, key) => (
               <li key={key} className="flex gap-3 md:item-center mt-4">
                 <div>
-                  <IoIosStar size="1.3rem" />
+                  <IoIosStar size="20px" />
                 </div>
                 <p className="text-sm md:text-base">{achievement}</p>
               </li>

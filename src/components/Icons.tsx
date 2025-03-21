@@ -68,8 +68,8 @@ export const InstagramIcon = ({
 }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="1rem"
-    height="1rem"
+    width="16px"
+    height="16px"
     viewBox="0 0 48 48"
     className={`h-auto ${className}`}
   >

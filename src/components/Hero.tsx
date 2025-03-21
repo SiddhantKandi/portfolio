@@ -16,7 +16,7 @@ const Hero = () => {
   ];
   const router = useRouter();
   return (
-    <div className="flex flex-col items-center justify-center h-[20rem] md:h-[26rem]  ">
+    <div className="flex flex-col items-center justify-center h-[320px] md:h-[416px] ">
       <p className="text-neutral-600 dark:text-neutral-200 text-xs sm:text-base  ">
         Transforming Ideas into Functional Software
       </p>
