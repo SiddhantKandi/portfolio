@@ -1,1 +1,1 @@
-## Link: [https://siddhantkandi.vercel.app](https://www.siddhantkandi.com/)
+## Link: [https://www.siddhantkandi.com/](https://siddhantkandi.vercel.app/)
