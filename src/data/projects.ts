@@ -1,6 +1,6 @@
 import { IProject } from "./types"
 import SurveySphere from "@/assets/projectImages/SurveySphere.png"
-import NeuroMed from "@/assets/projectImages/NeuroMed.png"
+import NeuroMed from "@/assets/projectImages/Neuromed.png"
 import CarPricePredictor from "@/assets/projectImages/CarPricePredictor.jpeg"
 import NextScape from "@/assets/projectImages/NextScape.png"
 
