@@ -22,7 +22,7 @@ const About = () => {
   const ACHIEVEMENTS = [
     "Achieved Highest Rating of 1479 on CodeChef",
     "Global Rank 464 in CodeChef Starters 178 (Div. 2)",
-    "Achieved Highest Rating of 1452 on LeetCode",
+    "Achieved Highest Rating of 1466 on LeetCode",
     "Solved over 500+ problems on LeetCode,Codechef,Codeforces,GFG",
   ];
 
