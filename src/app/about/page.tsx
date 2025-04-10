@@ -42,7 +42,7 @@ const About = () => {
           <h1 className="text-2xl md:text-4xl font-bold">About Me</h1>
           <p className="mt-6 text-sm md:text-base">
             Hi Everyone, I am Siddhant Kandi from Parbhani, India. I have done
-            my graduation from VIIT Pune.
+            my graduation from VIT Pune.
           </p>
           <div className="mt-8 text-sm md:text-base">
             <p>Some of my competitive programming achievements are:</p>

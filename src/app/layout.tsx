@@ -14,7 +14,7 @@ const inter = Raleway({
 
 export const metadata: Metadata = {
   title: "Siddhant Kandi",
-  description: "Siddhant Kandi, Software Developer, VIIT Pune",
+  description: "Siddhant Kandi, Software Developer, VIT Pune",
 };
 
 export default function RootLayout({
