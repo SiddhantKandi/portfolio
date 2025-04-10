@@ -20,9 +20,9 @@ const About = () => {
   }, [isInView, leftSlideControls, mainControls, rightSlideControls]);
 
   const ACHIEVEMENTS = [
-    "Achieved Highest Rating of 1479 on CodeChef",
+    "Achieved Highest Rating of 1481 on CodeChef",
     "Global Rank 464 in CodeChef Starters 178 (Div. 2)",
-    "Achieved Highest Rating of 1466 on LeetCode",
+    "Achieved Highest Rating of 1485 on LeetCode",
     "Solved over 500+ problems on LeetCode,Codechef,Codeforces,GFG",
   ];
 
