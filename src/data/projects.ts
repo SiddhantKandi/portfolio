@@ -13,13 +13,13 @@ const projects: Array<IProject> = [
   },
   {
     title: "Patient Management System",
-    description: "Developed a comprehensive Patient Management System to efficiently handle patient records, appointment scheduling, and medical history tracking. Frontend - React, Backend - Nodejs, Database - MongoDB",
+    description: "Developed a comprehensive Patient Management System to efficiently handle patient records, appointment scheduling, and medical history tracking. Frontend - React, Backend - Nodejs, Database - PostGreSQL",
     thumbnail: NeuroMed,
     githubLink: "https://github.com/SiddhantKandi/Neuromed_frontend"
   },
   {
     title: "Car Price Predictor",
-    description: "Developed backend of an e-learning platform using DRF for course creation and enrollment. Techstack involved are NextJS, Django, Websocket, Redis, Docker, FFmpeg",
+    description: "Developed a Car Price Predictor using Python and Tkinter for the user interface.Implemented a Decision Tree Regressor model to predict car prices based on input features.User inputs include car model, distance travelled, fuel type, and manufacturing date.Achieved a prediction accuracy of 97% through effective data preprocessing and model tuning.Enhanced skills in machine learning, GUI development, and regression analysis.",
     thumbnail: CarPricePredictor,
     githubLink: "https://github.com/SiddhantKandi/Car-Price-Predictor"
   },
