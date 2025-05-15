@@ -19,7 +19,7 @@ const projects: Array<IProject> = [
   },
   {
     title: "Car Price Predictor",
-    description: "Developed a Car Price Predictor using Python and Tkinter for the user interface.Implemented a Decision Tree Regressor model to predict car prices based on input features.User inputs include car model, distance travelled, fuel type, and manufacturing date.Achieved a prediction accuracy of 97% through effective data preprocessing and model tuning.Enhanced skills in machine learning, GUI development, and regression analysis.",
+    description: "Developed a Car Price Predictor using Python and Tkinter for the user interface.Implemented a Decision Tree Regressor model to predict car prices based on input features.User inputs include car model, distance travelled, fuel type, and manufacturing date.",
     thumbnail: CarPricePredictor,
     githubLink: "https://github.com/SiddhantKandi/Car-Price-Predictor"
   },
