@@ -13,7 +13,7 @@ const projects: Array<IProject> = [
   },
   {
     title: "Patient Management System",
-    description: "Developed a comprehensive Patient Management System to efficiently handle patient records, appointment scheduling, and medical history tracking. Frontend - React, Backend - Nodejs, Database - PostGreSQL",
+    description: "Developed a comprehensive Patient Management System to efficiently handle patient records, appointment scheduling, and medical history tracking. Frontend - React,Redux, Backend - Nodejs, Database - PostGreSQL",
     thumbnail: NeuroMed,
     githubLink: "https://github.com/SiddhantKandi/Neuromed_frontend"
   },
